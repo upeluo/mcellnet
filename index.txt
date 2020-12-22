@@ -1,0 +1,14 @@
+0 Contaminations
+1 Cryptosporidium
+2 Giardia
+3 1.54um beads
+4 3um beads
+5 4um beads
+6 4.6um beads
+7 5um beads
+8 5.64um beads
+9 8um beads
+10 10um beads
+11 12um beads
+12 15um beads
+
